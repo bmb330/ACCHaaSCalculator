@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ACCHaaS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ACCHaaS_jar</output-path>
+    <root id="archive" name="ACCHaaS.jar">
+      <element id="module-output" name="ACCHaaS" />
+    </root>
+  </artifact>
+</component>
